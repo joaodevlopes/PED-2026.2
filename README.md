@@ -1,4 +1,4 @@
 # PED-2026.2
 
-João Gabriel Lima Lopes
-0125539
+# Nome Completo: João Gabriel Lima Lopes\
+# Matrícula: 0125539
