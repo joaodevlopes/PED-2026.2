@@ -41,9 +41,4 @@ int main()
     printf("O gasto total em combustivel vai ser de: R$%.2f: dividido para %d pessoas vai resultar em R$%.2f:", valorGastoCombustivel, qntsPessoas, valorParaCada);
     
     
-    
-    
-    // Quantos km o carro percorre por litro(5)  - quantos km o carro pretende viajar (20)
-    //valor do combustivel 
-    
 }
