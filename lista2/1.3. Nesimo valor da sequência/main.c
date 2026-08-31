@@ -3,10 +3,10 @@
 // PILHA:
 
 //nesimoValor(1) return 1
-//nesimoValor(2) return 3 * nesimoValor(1) = 3 * 1 
-//nesimoValor(3) return 3 * nesimoValor(2) = 3 * 3 
-//nesimoValor(4) return 3 * nesimoValor(3 ) = 3 * 9 
-//nesimoValor(5) return 3 * nesimoValor(4) = 3 * 27
+//nesimoValor(2) return 3 * nesimoValor(1) = 3 * 1 = 3
+//nesimoValor(3) return 3 * nesimoValor(2) = 3 * 3 = 9
+//nesimoValor(4) return 3 * nesimoValor(3 ) = 3 * 9 = 27
+//nesimoValor(5) return 3 * nesimoValor(4) = 3 * 27 = 81
 //nesimoValor(6) return 3 * nesimoValor(5) = 3 * 81 = 243 
 
 
